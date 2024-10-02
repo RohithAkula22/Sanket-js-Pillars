@@ -1,0 +1,1 @@
+// ! What is we can go one step ahead and set ahead of this Pseudo Iterator thing, and set ourselves out of this psuedo declarative thing, and make a thing which gives data whenever you ask, Their is concept called GENERATORS which help us
